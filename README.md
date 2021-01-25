@@ -58,10 +58,4 @@ Dealing with invalid inputs:
 Dealing with issues related to the "month" and "day of week" extraction from "Start Time":
 * https://stackoverflow.com/questions/60214194/error-in-reading-stock-data-datetimeproperties-object-has-no-attribute-week
 * https://github.com/pandas-dev/pandas/issues/22830
-* https://knowledge.udacity.com/questions/340489
 * https://www.geeksforgeeks.org/python-calendar-module/
-
-Dealing with issues related to displaying raw data:
-* https://knowledge.udacity.com/questions/2132
-* https://knowledge.udacity.com/questions/88906
-* https://knowledge.udacity.com/questions/237695
